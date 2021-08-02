@@ -500,8 +500,8 @@ async def play(_, message: Message):
                 except Exception:
                     # print(e)
                     await lel.edit(
-                        f"<i>❗ Flood Wait Error ❗Satoru VC Assistant couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                        "\n\nOr manually add @SatoruProAssistant to your Group and try again</i>",
+                        f"<i>❗ Flood Wait Error ❗Kurisu VC Assistant couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
+                        "\n\nOr manually add @KurisuVCassistant to your Group and try again</i>",
                     )
     try:
         await USER.get_chat(chid)
@@ -776,8 +776,8 @@ async def ytplay(_, message: Message):
                 except Exception:
                     # print(e)
                     await lel.edit(
-                        f"<i>❗ Flood Wait Error ❗Satoru VC Assistant couldn't join your group! Make sure Satoru VC Assistant is not banned in group."
-                        "\n\nOr manually add @SatoruProAssistant to your Group and try again</i>",
+                        f"<i>❗ Flood Wait Error ❗Kurisu VC Assistant couldn't join your group! Make sure Kurisu VC Assistant is not banned in group."
+                        "\n\nOr manually add @KurisuVCassistant to your Group and try again</i>",
                     )
     try:
         await USER.get_chat(chid)
@@ -922,8 +922,8 @@ async def deezer(client: Client, message_: Message):
                 except Exception:
                     # print(e)
                     await lel.edit(
-                        f"<i>❗ Flood Wait Error ❗Satoru VC Assistant couldn't join your group! Make sure Satoru VC Assistant is not banned in group."
-                        "\n\nOr manually add @SatoruProAssistant to your Group and try again</i>",
+                        f"<i>❗ Flood Wait Error ❗Kurisu VC Assistant couldn't join your group! Make sure Kurisu VC Assistant is not banned in group."
+                        "\n\nOr manually add @KurisuVCassistant to your Group and try again</i>",
                     )
     try:
         await USER.get_chat(chid)
@@ -1060,8 +1060,8 @@ async def jiosaavn(client: Client, message_: Message):
                 except Exception:
                     # print(e)
                     await lel.edit(
-                        f"<i>❗ Flood Wait Error ❗Satoru VC Assistant couldn't join your group! Make sure Satoru VC Assistant is not banned in group."
-                        "\n\nOr manually add @SatoruProAssistant to your Group and try again</i>",
+                        f"<i>❗ Flood Wait Error ❗Kurisu VC Assistant couldn't join your group! Make sure Kurisu VC Assistant is not banned in group."
+                        "\n\nOr manually add @KurisuVCassistant to your Group and try again</i>",
                     )
     try:
         await USER.get_chat(chid)
